@@ -1,2 +1,2 @@
-# POORNESH_V
- My first Girhub repository
+#Project 1
+TIC-TAC-TOE Game using Python 
